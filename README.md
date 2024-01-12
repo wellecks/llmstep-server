@@ -8,7 +8,7 @@ python server.py
 
 #### Citation
 
-Paper link: [paper]([[paper](https://mathai2023.github.io/papers/40.pdf)])
+Paper link: [[paper](https://mathai2023.github.io/papers/40.pdf)]
 
 Please cite:
 ```
